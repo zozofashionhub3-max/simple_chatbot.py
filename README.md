@@ -81,5 +81,5 @@ EduBot: Goodbye! 👋 Stay motivated and keep studying!
 ---
 
 ## 🧑‍💻 Author:
-**Your Name Here**  
+Sinazo  
 Python Programming Beginner Project — 2025
